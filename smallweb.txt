@@ -12380,3 +12380,5 @@ https://zwischenzugs.com/feed
 https://zzamboni.org/post/index.xml
 https://マリウス.com/index.xml
 https://darcynorman.net/photos/index.xml
+https://abject.ca/feed
+http://cogdogblog.com/feed
